@@ -1,0 +1,13 @@
+runtime: nodejs14
+
+handlers:
+  # Serve all static files with automatic caching
+  - url: /(.*\.(js|css|png|jpg|jpeg|gif|ico|svg|woff2|woff|ttf|eot|txt|json|map))$
+    static_files: dist/\1
+    upload: dist/(.*\.(js|css|png|jpg|jpeg|gif|ico|svg|woff2|woff|ttf|eot|txt|json|map))$
+    expiration: "7d"
+
+  # Serve index.html for all routes
+  - url: /.*
+    static_files: dist/index.html
+    upload: dist/index.html
