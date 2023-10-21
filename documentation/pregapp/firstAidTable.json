@@ -1,0 +1,32 @@
+
+{
+    "table": "medicalEmergency",
+    "data": [
+      {
+        "Symptom": "Bleeding",
+        "Severity": "Severe",
+        "Duration": "More than 30 minutes"
+      },
+      {
+        "Symptom": "Severe abdominal pain",
+        "Severity": "Severe",
+        "Duration": "More than 2 hours"
+      },
+      {
+        "Symptom": "Severe headache",
+        "Severity": "Severe",
+        "Duration": "More than 4 hours"
+      },
+      {
+        "Symptom": "Chest pain or shortness of breath",
+        "Severity": "Severe",
+        "Duration": "Any duration"
+      },
+      {
+        "Symptom": "Seizures or convulsions",
+        "Severity": "Any severity",
+        "Duration": "Any duration"
+      }
+    ]
+  }
+  
