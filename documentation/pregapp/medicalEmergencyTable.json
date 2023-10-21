@@ -1,0 +1,33 @@
+{
+    "table": "firstAid",
+    "data": [
+      {
+        "Symptom": "Mild abdominal pain",
+        "Severity": "Mild",
+        "Duration": "Less than 2 hours",
+        "FirstAidMeasures": "Rest, drink water, apply heat to the area",
+        "Medication": "Acetaminophen or ibuprofen as directed by a healthcare provider",
+        "Care": "Avoid food that triggers the pain, eat small meals, avoid alcohol and caffeine",
+        "Exercises": "Pelvic tilt, Kegel exercises, prenatal yoga"
+      },
+      {
+        "Symptom": "Mild headache",
+        "Severity": "Mild",
+        "Duration": "Less than 4 hours",
+        "FirstAidMeasures": "Rest in a quiet, dark room, apply a cold compress to the forehead",
+        "Medication": "Acetaminophen as directed by a healthcare provider",
+        "Care": "Stay hydrated, eat small meals regularly, get plenty of rest",
+        "Exercises": "Neck stretches, relaxation techniques, prenatal yoga"
+      },
+      {
+        "Symptom": "Swollen ankles",
+        "Severity": "Mild",
+        "Duration": "Less than 24 hours",
+        "FirstAidMeasures": "Rest with legs elevated, apply cold compress to the area",
+        "Medication": "None",
+        "Care": "Avoid standing or sitting for long periods, wear comfortable shoes",
+        "Exercises": "Foot circles, ankle pumps, walking or swimming"
+      }
+    ]
+  }
+  

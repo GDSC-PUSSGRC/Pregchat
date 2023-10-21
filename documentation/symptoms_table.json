@@ -1,0 +1,51 @@
+[
+    {
+      "Symptom": "Nausea and vomiting",
+      "Medication": ["Vitamin B6", "Doxylamine (Unisom)", "Ginger supplements"],
+      "Care": ["Eat small, frequent meals", "Avoid spicy or greasy foods", "Stay hydrated"],
+      "Exercise": ["Light exercise, such as walking or yoga"]
+    },
+    {
+      "Symptom": "Fatigue",
+      "Medication": [],
+      "Care": ["Get plenty of rest", "Nap when possible"],
+      "Exercise": ["Gentle exercise, such as stretching or swimming"]
+    },
+    {
+      "Symptom": "Back pain",
+      "Medication": ["Acetaminophen (Tylenol)"],
+      "Care": ["Practice good posture", "Use a supportive pillow when sleeping", "Avoid high heels"],
+      "Exercise": ["Prenatal yoga or gentle stretching"]
+    },
+    {
+      "Symptom": "Headaches",
+      "Medication": ["Acetaminophen (Tylenol)"],
+      "Care": ["Stay hydrated", "Avoid triggers (such as bright lights or loud noises)"],
+      "Exercise": ["Light exercise, such as walking or swimming"]
+    },
+    {
+      "Symptom": "Constipation",
+      "Medication": ["Fiber supplements", "Stool softeners"],
+      "Care": ["Eat a high-fiber diet", "Drink plenty of water", "Stay active"],
+      "Exercise": ["Gentle exercise, such as walking or yoga"]
+    },
+    {
+      "Symptom": "Swelling",
+      "Medication": [],
+      "Care": ["Elevate feet when possible", "Wear comfortable shoes", "Avoid standing or sitting for long periods of time"],
+      "Exercise": ["Prenatal yoga or swimming"]
+    },
+    {
+      "Symptom": "Gestational diabetes",
+      "Medication": ["Insulin", "Metformin"],
+      "Care": ["Follow a healthy diet", "Monitor blood sugar levels", "Attend all prenatal appointments"],
+      "Exercise": ["Low-impact exercise, such as walking or prenatal yoga"]
+    },
+    {
+      "Symptom": "High blood pressure",
+      "Medication": ["Medication prescribed by a doctor"],
+      "Care": ["Attend all prenatal appointments", "Monitor blood pressure regularly"],
+      "Exercise": ["Gentle exercise, such as walking or swimming"]
+    }
+  ]
+  

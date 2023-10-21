@@ -1,0 +1,1 @@
+const medicalEmergencyTable = JSON.parse(medicalEmergencyData);
